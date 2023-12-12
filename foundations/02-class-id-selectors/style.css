@@ -1,5 +1,11 @@
-p {
+p  {
     background-color: lightpink;
+    font: verdana, "DejaVu Sans", Sans-serif;
+   
+}
+
+#fontsize {
+    font-size: 24px;
 }
 
 #sectionone {
