@@ -1,0 +1,14 @@
+button {
+    font: Helvetica, "Times New Roman", Sans-serif;
+    font-size: 28px;
+}
+
+#one {
+    color: white;
+    background-color: black;
+}
+
+#two {
+    color: black;
+    background-color: yellow;
+}
