@@ -1,0 +1,13 @@
+p {
+    background-color: lightpink;
+}
+
+#sectionone {
+    font-size: large;
+    color: blue;
+}
+
+#sectiontwo {
+    background-color: green;
+    font-weight: 700
+}
